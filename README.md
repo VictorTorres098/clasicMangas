@@ -1,0 +1,2 @@
+# clasicMangas
+laravel web
